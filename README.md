@@ -4,6 +4,6 @@
 
 ![Startend](8-Puzzle-Solver/extra/182043765/start-gt.png) ![Startend](8-Puzzle-Solver/extra/182043765/summary.gif)
 
-## 2) Hill-Climbing (Under dev)
+## 2) Hill-Climbing
 
 ![summary](Hill-Climbing/extra/Djibouti/summary.png)

@@ -1,4 +1,4 @@
-# Hill-Climbing (Under dev)
+# Hill-Climbing
 
 ![summary](extra/Djibouti/summary.png)
 
