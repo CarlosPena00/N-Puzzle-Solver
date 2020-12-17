@@ -10,4 +10,4 @@
 
 ## Adversarial-Search
 
-![summary](Adversarial-Search/extra/board.jpg)
+![summary](Adversarial-Search/extra/board.png)

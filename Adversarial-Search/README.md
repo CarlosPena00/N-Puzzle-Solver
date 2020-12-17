@@ -1,3 +1,3 @@
 # Adversarial-Search
 
-![summary](extra/board.jpg)
+![summary](extra/board.png)
