@@ -7,3 +7,7 @@
 ## 2) Hill-Climbing
 
 ![summary](Hill-Climbing/extra/Djibouti/summary.png)
+
+## Adversarial-Search
+
+![summary](Adversarial-Search/extra/board.jpg)
